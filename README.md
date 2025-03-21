@@ -11,3 +11,5 @@ pip install pytesseract pillow opencv-python
 
 USAGE:
 - All target images to extract text should be in the same directory of the file getOCR.py
+- Open terminal on the path of the directory where is getOCR.py
+- Run: Python getOCR.py
