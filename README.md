@@ -6,7 +6,7 @@ Dependencies:
 - OpenCV
 
 
-Install Python 3, and then run the following in Powershell to install dependencies:
+Install Python 3 and then run the following in Powershell to install dependencies:
 pip install pytesseract pillow opencv-python
 
 USAGE:
